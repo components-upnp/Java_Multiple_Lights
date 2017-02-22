@@ -10,5 +10,5 @@ package src;
  * @author telly
  */
 public enum Action {
-    Aucune,Droite,Gauche,Haut,Bas,Centre;
+    Aucune,Droite,Gauche,Haut,Bas,Centre; //TEST
 }
